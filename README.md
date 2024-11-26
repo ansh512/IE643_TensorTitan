@@ -23,6 +23,12 @@ This repository contains the complete implementation of our project, including c
 - **Trained Model**: [Link]()
 - **To Train**: Download any provided notebook, upload the dataset, and execute the notebook to train the model.
 
+## Hyperparameters
+- `learning_rate`: Default 1e-4. Adjust based on dataset size.
+- `batch_size`: Default 8. Adjust based on available memory.
+- `epoch` : Default 100. With early stopping.
+- `optimizer` : Adam  
+
 ## Getting Started with GUI
 
 Follow these steps to set up and run the GUI for the MRI Viewer and Analysis Tool:
