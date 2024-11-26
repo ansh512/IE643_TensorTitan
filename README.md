@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ```
 
-###5. Run the Application
+### 5. Run the Application
 Launch the GUI by running the main application file:
 ```bash
 python tk_app.py
