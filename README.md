@@ -20,7 +20,7 @@ This repository contains the complete implementation of our project, including c
 
 ### Model Training
 
-- **Trained Model**: [Link]()
+- **Trained Model**: [Link](https://drive.google.com/drive/folders/1ZVSV-4akGO8kbln2dH_ognXTFInPG2jH?usp=sharing)
 - **To Train**: Download any provided notebook, upload the dataset, and execute the notebook to train the model.
 
 ## Hyperparameters
